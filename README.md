@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 <div>
-<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Surya-nara0123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Surya-nara0123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
- <img src="https://img.shields.io/badge/any_text-you_like-blue"></img>
+<img src="https://img.shields.io/badge/any_text-you_like-blue"></img>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
             <i class="devicon-javascript-plain colored"></i>
