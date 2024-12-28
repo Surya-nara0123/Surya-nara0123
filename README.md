@@ -2,6 +2,9 @@
 
 ![Surya-nara0123's Stats](https://github-readme-stats.vercel.app/api?username=Surya-nara0123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <!--
 **Surya-nara0123/Surya-nara0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
