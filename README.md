@@ -1,10 +1,14 @@
 ## Hi there 👋
 
 ![Surya-nara0123's Stats](https://github-readme-stats.vercel.app/api?username=Surya-nara0123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<img src="https://img.shields.io/badge/any_text-you_like-blue"></img>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+            <i class="devicon-javascript-plain colored"></i>
 </p>
+
+![Snake animation](https://github.com/Surya-nara0123/Surya-nara0123/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Surya-nara0123/Surya-nara0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
