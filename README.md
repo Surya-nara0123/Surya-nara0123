@@ -19,7 +19,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NFt5Ux5c)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%230A0A0A.svg?logo=firefox&logoColor=white)](https://your-portfolio.com) -->
 
-<br><br>
 
 ### 🛠️ Languages and Tools
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-Blockchain%20Framework-blue?logo=hyperledger)
