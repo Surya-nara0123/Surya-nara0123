@@ -1,17 +1,18 @@
-
 ![Welcome banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50)
 
-<div>
-<img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-nara0123&layout=compact&langs_count=16&theme=dracula"/>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-nara0123&layout=compact&langs_count=16&theme=dracula" />
+  
+  <div style="max-width: 60%; margin-left: 20px;">
+    <p><h4>Hi there! 👋</h4> I'm Surya, a passionate full-stack developer with a knack for building efficient and scalable web and blockchain applications. 
+    I enjoy learning and exploring new technologies like Hyperledger Fabric, Golang, and React, and I'm always up for a challenge to solve complex problems. 
+    Let's connect and create something amazing together!</p>
+  </div>
 </div>
 
-<br>
-
-
+<br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Surya-nara0123&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> -->
 
 ### 🛠️ Languages and Tools
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-Blockchain%20Framework-blue?logo=hyperledger)
@@ -21,7 +22,6 @@
 ![Golang](https://img.shields.io/badge/Go-Programming%20Language-blue?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -33,10 +33,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Surya-nara0123&color=blue)
 
-
 ![Random Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-<!-- ### ⚡ GitHub Activity
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Surya-nara0123&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true) -->
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
