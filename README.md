@@ -1,13 +1,13 @@
 ![Welcome banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50)
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-nara0123&layout=compact&langs_count=16&theme=dracula" />
-  
   <div style="max-width: 60%; margin-left: 20px;">
     <p><h4>Hi there! 👋</h4> I'm Surya, a passionate full-stack developer with a knack for building efficient and scalable web and blockchain applications. 
     I enjoy learning and exploring new technologies like Hyperledger Fabric, Golang, and React, and I'm always up for a challenge to solve complex problems. 
     Let's connect and create something amazing together!</p>
   </div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-nara0123&layout=compact&langs_count=16&theme=dracula" />
+  
 </div>
 
 <br><br>
