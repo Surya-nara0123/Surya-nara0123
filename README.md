@@ -23,7 +23,7 @@
 
 
 
-<!-- ![Snake animation](https://github.com/Surya-nara0123/Surya-nara0123/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Surya-nara0123/Surya-nara0123/blob/output/github-contribution-grid-snake.svg)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surya-nara0123&theme=dracula)
