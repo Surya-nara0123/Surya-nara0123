@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<div>
- <img align="center" height="170" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-nara0123&layout=compact&langs_count=16&theme=dracula"/>
+<div >
+ <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-nara0123&layout=compact&langs_count=16&theme=dracula"/>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Surya-nara0123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 <img src="https://img.shields.io/badge/any_text-you_like-blue"></img>
