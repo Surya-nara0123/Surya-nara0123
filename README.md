@@ -1,8 +1,9 @@
 
 ![Welcome banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Surya-nara0123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+<div>
 <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-nara0123&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 
 
