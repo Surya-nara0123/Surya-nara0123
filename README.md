@@ -10,9 +10,16 @@
   
 </div>
 
-<br><br>
+<h2>🌐 Connect with Me</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Surya-nara0123&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryanara0123)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Surya-nara0123)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/SuryaNara0123)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surya.nara0123@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NFt5Ux5c)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%230A0A0A.svg?logo=firefox&logoColor=white)](https://your-portfolio.com) -->
+
+<br><br>
 
 ### 🛠️ Languages and Tools
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-Blockchain%20Framework-blue?logo=hyperledger)
@@ -34,5 +41,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Surya-nara0123&color=blue)
 
 ![Random Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Surya-nara0123&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
