@@ -1,13 +1,8 @@
-![Welcome banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50)
-
 ## **Hi there! 👋**
 
 **I'm Surya, a passionate full-stack developer with a knack for building efficient and scalable web and blockchain applications. 
 I enjoy learning and exploring new technologies like, `Golang`, and `React`, and I'm always up for a challenge to solve complex problems. 
 Let's connect and create something amazing together!**
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-nara0123&layout=compact&langs_count=16&theme=dracula" />
-  
 
 ### 🌐 **Connect with Me**
 
@@ -26,19 +21,3 @@ Let's connect and create something amazing together!**
 ![Golang](https://img.shields.io/badge/Go-Programming%20Language-blue?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surya-nara0123&theme=dracula)
-
-<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=Surya-nara0123&color=blue) -->
-
-![Random Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Surya-nara0123&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
